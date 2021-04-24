@@ -1,0 +1,136 @@
+[
+  {
+    "id": 0,
+    "description": "Often found on planet Hibnue in the GHal system.",
+    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+    "name": "Niate",
+    "attributes": [
+      {
+      "trait_type": "Physical",
+      "value": 5
+    },
+    {
+      "trait_type": "Smarts",
+      "value": 10
+    },
+    {
+      "trait_type": "Wealth",
+      "value": 5
+    },
+    {
+      "trait_type": "Influence",
+      "value": 5
+    },
+    {
+      "trait_type": "Title",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Immortal",
+      "value": "No"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Race",
+      "value": "1"
+    },
+    {
+      "trait_type": "Job",
+      "value": "Miner"
+    }
+  ],
+  },
+  {
+    "id": 1,
+    "description": "Often found on planet Hibnue in the GHal system.",
+
+    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+    "name": "Niate",
+    "attributes": [
+      {
+      "trait_type": "Physical",
+      "value": 5
+    },
+    {
+      "trait_type": "Smarts",
+      "value": 10
+    },
+    {
+      "trait_type": "Wealth",
+      "value": 5
+    },
+    {
+      "trait_type": "Influence",
+      "value": 5
+    },
+    {
+      "trait_type": "Title",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Immortal",
+      "value": "No"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Race",
+      "value": "1"
+    },
+    {
+      "trait_type": "Job",
+      "value": "Miner"
+    }
+  ],
+  },
+  {
+    "id": 2,
+    "description": "Often found on planet Hibnue in the GHal system.",
+
+    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+    "name": "Niate",
+    "attributes": [
+      {
+      "trait_type": "Physical",
+      "value": 5
+    },
+    {
+      "trait_type": "Smarts",
+      "value": 10
+    },
+    {
+      "trait_type": "Wealth",
+      "value": 5
+    },
+    {
+      "trait_type": "Influence",
+      "value": 5
+    },
+    {
+      "trait_type": "Title",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Immortal",
+      "value": "No"
+    },
+    {
+      "trait_type": "Sex",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Race",
+      "value": "1"
+    },
+    {
+      "trait_type": "Job",
+      "value": "Miner"
+    }
+  ],
+  }
+]
